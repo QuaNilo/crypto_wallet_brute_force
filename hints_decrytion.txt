@@ -1,0 +1,9 @@
+
+PBKDF2
+Salt = 'mnemonic'
+Iterations = 2048
+Key length = 64
+Digest algorithm = sha512
+
+
+Encriptação da chave privada provavelmente em AES
